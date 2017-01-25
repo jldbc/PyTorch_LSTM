@@ -1,2 +1,2 @@
 # PyTorch_LSTM
-Generative Long Short Term Memory (LSTM) Recurrent Neural Network in Pytorch
+Implementation of a generative LSTM in PyTorch (work in progress)
